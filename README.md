@@ -117,11 +117,7 @@ Machine learning project for analyzing airline reviews.
 
 ![streak](https://streak-stats.demolab.com/?user=Edres-dev\&theme=tokyonight)
 
----
 
-## 🐍 Contribution Snake
-
-![snake gif](https://github.com/Edres-dev/Edres-dev/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
