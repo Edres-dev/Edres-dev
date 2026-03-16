@@ -121,7 +121,7 @@ Machine learning project for analyzing airline reviews.
 
 ## 🐍 Contribution Snake
 
-![snake gif](https://github.com/YOUR_USERNAME/Edres-dev/blob/main/dist/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/Edres-dev/Edres-dev/blob/main/dist/github-contribution-grid-snake.svg)
 
 ---
 
