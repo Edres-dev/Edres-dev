@@ -1,16 +1,46 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Edres Almaamari</h1>
+<h3 align="center">IT Software Engineer | Flutter & AI Developer</h3>
 
-<!--
-**Edres-dev/Edres-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 IT Student at Al-Hikma University  
+📱 Flutter Developer  
+🤖 AI & Computer Vision Enthusiast  
+
+I build mobile apps, web systems, and AI-powered solutions.
+
+---
+
+## 🛠 Tech Stack
+
+### Languages
+C# • Dart • Python • JavaScript • HTML • CSS
+
+### Frameworks
+Flutter • ASP.NET Core • React.js
+
+### AI
+YOLO • OpenCV • Scikit-learn • Pandas
+
+### Databases
+SQL Server • Oracle
+
+---
+
+## 📊 GitHub Stats
+
+![stats](https://github-readme-stats.vercel.app/api?username=Edres-dev&show_icons=true&theme=tokyonight)
+
+---
+
+## 📊 Top Languages
+
+![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Edres-dev&layout=compact)
+
+---
+
+## 📫 Contact
+
+Email: edres.developer@gmail.com
